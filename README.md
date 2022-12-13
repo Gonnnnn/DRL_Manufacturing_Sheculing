@@ -5,8 +5,7 @@ Check out /docs for the video and the result about this project in detail in the
 ```
 
 ## Bogyeong Suh, Geon Kim, Sri Madhumitha Nelakanti, Tuli Barman
-
-<img src="" width=430 height=353)>
+![rl](https://user-images.githubusercontent.com/87866588/207275243-782bb2eb-7492-4d66-9428-34f447387832.gif)
 
 ## Description
 
